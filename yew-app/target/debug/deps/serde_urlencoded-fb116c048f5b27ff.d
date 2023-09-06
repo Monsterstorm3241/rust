@@ -1,0 +1,11 @@
+/home/storm/rust/yew-app/target/debug/deps/serde_urlencoded-fb116c048f5b27ff.rmeta: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/de.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/mod.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/key.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/pair.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/part.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/home/storm/rust/yew-app/target/debug/deps/serde_urlencoded-fb116c048f5b27ff.d: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/de.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/mod.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/key.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/pair.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/part.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/value.rs
+
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/lib.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/de.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/mod.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/key.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/pair.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/part.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_urlencoded-0.7.1/src/ser/value.rs:
