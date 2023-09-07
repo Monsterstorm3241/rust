@@ -1,0 +1,11 @@
+/home/storm/rust/leptos-app/target/wasm32-unknown-unknown/debug/deps/ciborium_ll-3f1c274e9a0d1b26.rmeta: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/dec.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/enc.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/hdr.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/seg.rs
+
+/home/storm/rust/leptos-app/target/wasm32-unknown-unknown/debug/deps/libciborium_ll-3f1c274e9a0d1b26.rlib: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/dec.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/enc.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/hdr.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/seg.rs
+
+/home/storm/rust/leptos-app/target/wasm32-unknown-unknown/debug/deps/ciborium_ll-3f1c274e9a0d1b26.d: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/dec.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/enc.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/hdr.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/seg.rs
+
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/lib.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/dec.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/enc.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/hdr.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ciborium-ll-0.2.1/src/seg.rs:

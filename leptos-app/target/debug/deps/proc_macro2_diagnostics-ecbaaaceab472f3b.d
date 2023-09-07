@@ -1,0 +1,10 @@
+/home/storm/rust/leptos-app/target/debug/deps/proc_macro2_diagnostics-ecbaaaceab472f3b.rmeta: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/ext.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/diagnostic.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/line.rs
+
+/home/storm/rust/leptos-app/target/debug/deps/libproc_macro2_diagnostics-ecbaaaceab472f3b.rlib: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/ext.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/diagnostic.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/line.rs
+
+/home/storm/rust/leptos-app/target/debug/deps/proc_macro2_diagnostics-ecbaaaceab472f3b.d: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/ext.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/diagnostic.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/line.rs
+
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/lib.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/ext.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/diagnostic.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-diagnostics-0.10.1/src/line.rs:

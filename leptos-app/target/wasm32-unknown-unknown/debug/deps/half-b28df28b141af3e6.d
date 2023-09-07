@@ -1,0 +1,12 @@
+/home/storm/rust/leptos-app/target/wasm32-unknown-unknown/debug/deps/half-b28df28b141af3e6.rmeta: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat/convert.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16/convert.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/slice.rs
+
+/home/storm/rust/leptos-app/target/wasm32-unknown-unknown/debug/deps/libhalf-b28df28b141af3e6.rlib: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat/convert.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16/convert.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/slice.rs
+
+/home/storm/rust/leptos-app/target/wasm32-unknown-unknown/debug/deps/half-b28df28b141af3e6.d: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat/convert.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16/convert.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/slice.rs
+
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/lib.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/bfloat/convert.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/binary16/convert.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.2/src/slice.rs:

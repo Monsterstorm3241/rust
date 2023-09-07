@@ -1,0 +1,12 @@
+/home/storm/rust/leptos-app/target/debug/deps/libasync_trait-eb811234184d3dc1.so: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/args.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/bound.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/expand.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lifetime.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/parse.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/receiver.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/verbatim.rs
+
+/home/storm/rust/leptos-app/target/debug/deps/async_trait-eb811234184d3dc1.d: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/args.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/bound.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/expand.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lifetime.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/parse.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/receiver.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/verbatim.rs
+
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lib.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/args.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/bound.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/expand.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/lifetime.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/parse.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/receiver.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.73/src/verbatim.rs:

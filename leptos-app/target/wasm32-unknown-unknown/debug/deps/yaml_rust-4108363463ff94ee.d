@@ -1,0 +1,11 @@
+/home/storm/rust/leptos-app/target/wasm32-unknown-unknown/debug/deps/yaml_rust-4108363463ff94ee.rmeta: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/emitter.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/parser.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/scanner.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/yaml.rs
+
+/home/storm/rust/leptos-app/target/wasm32-unknown-unknown/debug/deps/libyaml_rust-4108363463ff94ee.rlib: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/emitter.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/parser.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/scanner.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/yaml.rs
+
+/home/storm/rust/leptos-app/target/wasm32-unknown-unknown/debug/deps/yaml_rust-4108363463ff94ee.d: /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/lib.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/emitter.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/parser.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/scanner.rs /home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/yaml.rs
+
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/lib.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/emitter.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/parser.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/scanner.rs:
+/home/storm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/yaml-rust-0.4.5/src/yaml.rs:
