@@ -30,21 +30,7 @@ fn App() -> Html {
 
     let character = Rc::new(CharData::default());
     let classes = vec!["Barbarian", "Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", "Ranger", "Rogue", "Sorcerer", "Warlock", "Wizard"];
-    let selected_classes = classes.iter().map(|class| {
-        let character = Rc::clone(&character);
-        let on_click = {
-            let input_node_ref = input_node_ref.clone();
-
-            Callback::from(move |_| {    
-                let input = input_node_ref.cast::<HtmlInputElement>();
-
-                if let Some(input) = input {
-                    input_value_handle.set(input.value());
-                }
-            })
-        };
-        html! { <div onclick={on_click}> { input_value } </div> }
-    }).collect::<Html>();
+    let selected_classes = classes.iter().map(|class| { html! { <div> { class } </div> }}).collect::<Html>();
     
     html! {
         <div>

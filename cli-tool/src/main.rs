@@ -1,5 +1,4 @@
 #![allow(unused)]
-
 use clap::Parser;
 use anyhow::{Context, Result};
 

@@ -1,46 +1,36 @@
 use leptos::*;
 
-// The #[component] macro marks a function as a reusable component
-// Components are the building blocks of your user interface
-// They define a reusable unit of behavior
+#[allow(dead_code)]
+pub struct CharData {
+    class: String,
+    subclass: String,
+}
+
+impl Default for CharData {
+    fn default() -> Self {
+        Self {
+            class: "None".to_string(),
+            subclass: "None".to_string(),
+        }
+    }
+}
 #[component]
 fn App(cx: Scope) -> impl IntoView {
-    // here we create a reactive signal
-    // and get a (getter, setter) pair
-    // signals are the basic unit of change in the framework
-    // we'll talk more about them later
-    let (text, set_text) = create_signal(cx, "Hello, world!");
-
-    // the `view` macro is how we define the user interface
-    // it uses an HTML-like format that can accept certain Rust values
+    let mut character = CharData::default();
     view! { cx,
-        <button
-            // on:click will run whenever the `click` event fires
-            // every event handler is defined as `on:{eventname}`
-
-            // we're able to move `set_count` into the closure
-            // because signals are Copy and 'static
+        <div
             on:click=move |_| {
-                set_text.update(|n| *n = "You clicked me!");
+                character.class = "clicked".to_string();
             }
         >
-            // text nodes in RSX should be wrapped in quotes,
-            // like a normal Rust string
             "Click me"
-        </button>
+        </div>
         <p>
-            // you can insert Rust expressions as values in the DOM
-            // by wrapping them in curly braces
-            // if you pass in a function, it will reactively update
-            {text}
+            {"aaaaaaaaah"}
         </p>
     }
 }
 
-// This `main` function is the entry point into the app
-// It just mounts our component to the <body>
-// Because we defined it as `fn App`, we can now use it in a
-// template as <App/>
 fn main() {
     leptos::mount_to_body(|cx| view! { cx, <App/> })
 }
