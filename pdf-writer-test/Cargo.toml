@@ -1,0 +1,11 @@
+[package]
+name = "pdf-writer-test"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.24.7"
+miniz_oxide = "0.7.1"
+pdf-writer = "0.9.0"
