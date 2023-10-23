@@ -1,4 +1,4 @@
-use iced::widget::{button, column, text};
+use iced::widget::{button, column, row, text};
 use iced::{Alignment, Element, Sandbox, Settings};
 
 pub fn main() -> iced::Result {
@@ -38,10 +38,15 @@ impl Sandbox for Counter {
     }
 
     fn view(&self) -> Element<Message> {
-        column![
-            button("Increment").on_press(Message::IncrementPressed),
-            text(self.value).size(50),
-            button("Decrement").on_press(Message::DecrementPressed)
+        row![
+            column![
+                button("Increment").on_press(Message::IncrementPressed),
+                text(self.value).size(50),
+                button("Decrement").on_press(Message::DecrementPressed)
+            ]
+                .padding(20)
+                .align_items(Alignment::Center)
+                .width(iced::Length::Fill)
         ]
             .padding(20)
             .align_items(Alignment::Center)
